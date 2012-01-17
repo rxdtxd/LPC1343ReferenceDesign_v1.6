@@ -1,0 +1,73 @@
+Partlist
+
+Exported from LPC1343_BaseBoard_V1.6.brd at 1/17/12 9:31 PM
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package         Library      Position (inch)       Orientation
+
+BTN1     RESET          EVQ-Q2          microbuilder (3.48015748 0.48625984) R180
+BTN2     ISP            EVQ-Q2          microbuilder (0.26015748 0.62)     R270
+C1       16pF           0603            microbuilder (1.87094488 0.68984252) R90
+C2       10µF           EIA3216-18/A-R  microbuilder (0.72015748 1.9615748) R90
+C3       10µF           EIA3216-18/A-R  microbuilder (1.02015748 0.8315748) R90
+C4       10µF           EIA3216-18/A-R  microbuilder (0.55015748 1.4915748) R270
+C5       0.1µF          0603            microbuilder (3.19015748 0.80062992) R180
+C6       0.1µF          0603            microbuilder (1.99015748 2.2015748) R0
+C7       10µF           0805            microbuilder (2.11015748 1.1415748) R270
+C8       10µF           0805            microbuilder (1.72389764 1.1484252) R270
+C9       0.1µF          0603            microbuilder (2.54015748 2.2015748) R0
+C10      0.1µF          0603            microbuilder (2.47015748 0.55)     R0
+C11      0.1µF          0603            microbuilder (0.54047244 0.55094488) R270
+C12      0.1µF          0603            microbuilder (1.16267717 1.06440945) R270
+C13      10µF           EIA3216-18/A-R  microbuilder (2.90015748 0.55)     R180
+C14      16pF           0603            microbuilder (2.02515748 0.69094488) R90
+C15      0.1µF          0603            microbuilder (1.37015748 2.2015748) R0
+C16      0.1µF          0603            microbuilder (1.38015748 0.54)     R0
+C17      0.1µF          0603            microbuilder (0.77015748 2.2015748) R0
+C18      0.1µF          0603            microbuilder (0.53015748 0.29)     R0
+CN1      USBMINIB       USB-MINIB       microbuilder (0.19015748 1.32125984) R270
+CN2      DC_2.0MM       DCJACK_2MM_SMT  microbuilder (0.19515748 2.0715748) R0
+D1       BAT54C         SOT23-R         microbuilder (0.50015748 0.71094488) R0
+D2       CDBA120-G      SMADIODE        microbuilder (0.58015748 1.7115748) R180
+JP1      5.0V           1X03_ROUND      microbuilder (2.94015748 0.1)      R0
+JP2      ADC            1X06_ROUND      microbuilder (2.19015748 2.65)     R180
+JP3      SPI            1X06_ROUND      microbuilder (2.79015748 2.65)     R180
+JP4      I2C            1X04_ROUND      microbuilder (2.59015748 0.1)      R0
+JP5      UART           1X06_ROUND      microbuilder (0.99015748 0.1)      R180
+JP6      WAKEUP         1X01_ROUND      microbuilder (3.24015748 2.6515748) R90
+JP7      FIDUCIAL1X2.5  FIDUCIAL-1X2.5  microbuilder (3.08 2.11629921)     R0
+JP8      GPIO1          1X06_ROUND      microbuilder (1.59015748 2.65)     R0
+JP9      FIDUCIAL1X2.5  FIDUCIAL-1X2.5  microbuilder (1.44 1.81259843)     R0
+JP11     GPIO2          1X11_ROUND      microbuilder (1.84015748 0.1)      R0
+JP12     POWERSOURCE    JUMPER3         microbuilder (0.51149606 2.50275591) R180
+JP13     GPIO3          1X06_ROUND      microbuilder (0.99015748 2.65)     R0
+JTAG1                   2X05_1.27MM_SMT microbuilder (3.48015748 2.1715748) R270
+JTAG2    SWD_MOLEX20    JTAG-ARM        microbuilder (3.48015748 1.2915748) R270
+LED1     POWER          CHIPLED_0805    microbuilder (0.17015748 1.67125984) R0
+LED2     2mA            CHIPLED_0805    microbuilder (3.25515748 0.17562992) R0
+LED3     USB            CHIPLED_0805    microbuilder (0.17015748 0.98125984) R0
+Q1       MMBT2907A      SOT23-R         microbuilder (0.81015748 1.0515748) R90
+R1       20K            0603            microbuilder (0.45047244 0.55094488) R270
+R2       10K            0603            microbuilder (2.47015748 0.86125984) R180
+R3       10K            0603            microbuilder (2.47015748 0.74062992) R180
+R4       10K            0603            microbuilder (2.62015748 1.2315748) R0
+R5       10K            0603            microbuilder (3.16015748 2.4415748) R270
+R6       1K             0603            microbuilder (0.62937008 0.55094488) R270
+R7       100K           0603            microbuilder (0.97015748 1.5115748) R180
+R8       1.0K           0603            microbuilder (3.22141732 0.31594488) R180
+R9       150            0603            microbuilder (0.26015748 1.67125984) R270
+R10      33             0603            microbuilder (0.97015748 1.2715748) R0
+R11      33             0603            microbuilder (0.97015748 1.3615748) R0
+R12      2K             0603            microbuilder (0.81015748 0.8815748) R270
+R13      150            0603            microbuilder (0.26015748 0.98125984) R90
+R14      10K            0603            microbuilder (0.80015748 1.4715748) R90
+R15      10K            0603            microbuilder (1.02708661 1.06440945) R270
+R19      1.5K           0603            microbuilder (0.81015748 1.2315748) R90
+U1       LPC1343FBD48   LQFP48          microbuilder (1.92015748 1.37795276) R90
+U2       LM1117(3.3)    SOT223-R        microbuilder (0.94015748 1.9015748) R180
+U3       MCP130T        SOT23-R         microbuilder (3.11952756 0.64062992) R90
+U4       24AA32AFT-I/OT SOT23-5         microbuilder (0.53015748 0.14)     R90
+Y2       12MHz          HC49/S          crystal      (1.94015748 0.90094488) R180
