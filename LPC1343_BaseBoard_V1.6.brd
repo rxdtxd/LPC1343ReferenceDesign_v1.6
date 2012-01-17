@@ -258,8 +258,8 @@
 <text x="12.738" y="66.618" size="1.27" layer="21" rot="SR180">DC</text>
 <text x="83.062" y="58.714" size="1.27" layer="21" rot="R90">WAKEUP</text>
 <text x="74.299" y="28.853" size="1.778" layer="21" ratio="12" rot="R90">LPC1343</text>
-<text x="76.966" y="23.265" size="1.778" layer="21" ratio="12" rot="R90">Retard Board</text>
-<text x="80.141" y="22.273" size="1.6764" layer="21" rot="R90">xi2o / wemakethings</text>
+<text x="77.474" y="19.709" size="1.778" layer="21" ratio="12" rot="R90">Reference/-tard Board</text>
+<text x="80.141" y="22.273" size="1.6764" layer="21" rot="R90">microbuilder.eu+wmt</text>
 <text x="16.252" y="51.602" size="1.27" layer="21" ratio="10" rot="R90">6-12V</text>
 <text x="85.729" y="62.778" size="1.27" layer="21" rot="R90">v1.6</text>
 <text x="46.104" y="18.442" size="1.27" layer="21" rot="R90">12MHz</text>
