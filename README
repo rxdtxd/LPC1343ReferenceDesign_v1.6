@@ -1,0 +1,8 @@
+This is a version of microBuilder.eu LPC1343 Reference Board [1],
+slightly modified:
+
+- the ocillator footprint is replaced with a HC49/S, these crystals
+- are available locally and cheaper; spacings are slightly increased
+- (manufacturer requirements; silkscreen is now retarded.
+
+[1]: http://www.microbuilder.eu/Projects/LPC1343ReferenceDesign.aspx
